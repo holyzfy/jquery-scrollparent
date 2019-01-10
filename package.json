@@ -1,0 +1,20 @@
+{
+  "name": "jquery-scrollparent",
+  "version": "1.0.0",
+  "description": "This plugin is a standalone solution for those wishing to use jQuery UI's `scrollParent` method without using jQuery UI itself.",
+  "main": "jquery.scrollparent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holyzfy/jquery-scrollparent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holyzfy/jquery-scrollparent/issues"
+  },
+  "homepage": "https://github.com/holyzfy/jquery-scrollparent#readme"
+}
